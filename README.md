@@ -19,7 +19,6 @@ To run this code you need an arduino Uno and a clock shield (OPEN SMART Clock Sh
 Following arduino libraries are used by the code:
 - [RTCLib by Adafruit](https://github.com/adafruit/RTClib) (v2.1.3)
 - [Buzzer by Giuseppe Martini](https://github.com/gmarty2000-ARDUINO/arduino-BUZZER/) (v1.0.0)
-- TM1637 TODO: provide link
 They need the following dependencies:
 - [Adafruit Bus IO](https://github.com/adafruit/Adafruit_BusIO)
 
